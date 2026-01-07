@@ -1,6 +1,6 @@
 # Popug Inventory app
 
-Code example for ["Асинхронная архитектура" course](http://education.borshev.com/architecture)
+Code example for ["Asynchronous Architecture" course](http://education.borshev.com/architecture)
 
 
 ## Routes
